@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="3b0c8b79-0695-4c4f-a598-3b5b8296b727" name="Kaktus" url="jdbc:mysql://localhost/esports?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="3b0c8b79-0695-4c4f-a598-3b5b8296b727" persistence-unit-name="myUnit" />
+    </data-source-infos>
+  </component>
+</project>
